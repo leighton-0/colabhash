@@ -5,7 +5,7 @@
 This project aims to be faster at deploying hashcat on Google Colab<br>
 by directly downloading the compiled binaries
 
-<a href="https://colab.research.google.com/github/threadexio/colabhash/blob/master/colabhash.ipynb">Open in Colab</a>
+<a href="https://colab.research.google.com/github/threadexio/colabhash/blob/main/colabhash.ipynb">Open in Colab</a>
 
 # How to use:
 
