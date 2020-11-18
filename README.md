@@ -21,7 +21,7 @@ Remember to change:
 `mode` to the mode of your hash<br>
 (see https://hashcat.net/wiki/doku.php?id=example_hashes for more details)
 
-`hash` to your hash or create a file in your `colabhash/hashes/` folder with your hash and change `hash` to `./colabhash/hashes/your_hash.txt`
+`hash` to your hash or create a file in your `colabhash/hashes/` folder with your hashes and change `hash` to `your_hash_file.txt`
 
 `wordlist` to your wordlist in `colabhash/wordlists/` (only use the file name, not the path)
 
